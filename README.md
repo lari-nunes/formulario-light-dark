@@ -1,4 +1,3 @@
-- Formulário simples e responsivo usando apenas HTML, CSS e JavaScript.
+Formulário Light & Dark 
 ------------------------------------------------------------------------
-Use meu projeto:
-https://formulario-puce-eight.vercel.app
+Deploy: https://formulario-puce-eight.vercel.app
